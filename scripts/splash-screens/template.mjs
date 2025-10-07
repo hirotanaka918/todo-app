@@ -105,7 +105,7 @@ const template = ({ width, height, mode }) => {
       </head>
       <body>
         <div class="container">
-          <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/refs/heads/main/public/logo.svg" class="logo" alt="App Logo" />
+          <img src="https://raw.githubusercontent.com/hirotanaka918/TodoApp/refs/heads/main/public/logo.svg" class="logo" alt="App Logo" />
           <div class="app-name">
             <span class="todo">Todo</span>
             <span class="app">&nbsp;App</span>
@@ -115,8 +115,8 @@ const template = ({ width, height, mode }) => {
         <div class="attribution">
           <div class="attribution-text">Made By</div>
           <div class="attribution-box">
-            <img src="https://avatars.githubusercontent.com/u/85953204?v=4" alt="@maciekt07" />
-            <span>@maciekt07</span>
+            <img src="https://avatars.githubusercontent.com/u/85953204?v=4" alt="@hirotanaka918" />
+            <span>@hirotanaka918</span>
           </div>
         </div>
       </body>
