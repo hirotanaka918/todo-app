@@ -26,7 +26,7 @@ export default function AboutTab() {
       <Typography variant="caption" sx={{ display: "block", mt: 2 }}>
         Created by <Link href="https://github.com/hirotanaka918">hirotanaka918</Link> <br />
         Explore the project on GitHub:{" "}
-        <Link href="https://github.com/hirotanaka918/TodoApp" target="_blank" rel="noopener noreferrer">
+        <Link href="https://github.com/hirotanaka918/todo-app" target="_blank" rel="noopener noreferrer">
           Todo App Repository
         </Link>
       </Typography>

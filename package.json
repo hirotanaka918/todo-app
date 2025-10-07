@@ -9,7 +9,7 @@
   "homepage": "https://react-cool-todo-app.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hirotanaka918/TodoApp.git"
+    "url": "git+https://github.com/hirotanaka918/todo-app.git"
   },
   "license": "MIT",
   "scripts": {

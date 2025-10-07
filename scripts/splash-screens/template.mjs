@@ -105,7 +105,7 @@ const template = ({ width, height, mode }) => {
       </head>
       <body>
         <div class="container">
-          <img src="https://raw.githubusercontent.com/hirotanaka918/TodoApp/refs/heads/main/public/logo.svg" class="logo" alt="App Logo" />
+          <img src="https://raw.githubusercontent.com/hirotanaka918/todo-app/refs/heads/main/public/logo.svg" class="logo" alt="App Logo" />
           <div class="app-name">
             <span class="todo">Todo</span>
             <span class="app">&nbsp;App</span>
