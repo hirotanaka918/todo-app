@@ -1,7 +1,7 @@
 import type { GitHubBranchResponse, GitHubInfoResponse, GitHubRepoResponse } from "../types/github";
 import { showToast } from "../utils";
 
-const username = "maciekt07";
+const username = "hirotanaka918";
 const repo = "TodoApp";
 const branch = "main";
 

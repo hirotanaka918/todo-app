@@ -24,9 +24,9 @@ export default function AboutTab() {
       </Typography>
       <img src={baner} style={{ width: "100%", height: "auto" }} alt="Todo App Screenshot" />
       <Typography variant="caption" sx={{ display: "block", mt: 2 }}>
-        Created by <Link href="https://github.com/maciekt07">maciekt07</Link> <br />
+        Created by <Link href="https://github.com/hirotanaka918">hirotanaka918</Link> <br />
         Explore the project on GitHub:{" "}
-        <Link href="https://github.com/maciekt07/TodoApp" target="_blank" rel="noopener noreferrer">
+        <Link href="https://github.com/hirotanaka918/TodoApp" target="_blank" rel="noopener noreferrer">
           Todo App Repository
         </Link>
       </Typography>
